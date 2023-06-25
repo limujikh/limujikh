@@ -1,19 +1,26 @@
 ## Берри Джобс 🐬 
 ```bash
 
-Berry Dzhobs (born May 11,) is an intropakan computer programmer.
+Берри Джобс (род. 11 мая) — интропаканский программист.
 
-Original Author:
+Оригинальный автор:
 
-Strerium.com
+- Sterium.com
 
-Healthfulplates.com
+- Healthfulplates.com
 
 - https://berrydzhobs.com/biography/
+
 ```
 
-## Technology 
+## Технологии
+
+```bash
+
 - Python
 - Aws
 - Linux
 - CLI
+
+
+```
