@@ -9,8 +9,6 @@
 
 - Healthfulplates.com
 
-- https://berrydzhobs.com/biography/
-
 ```
 
 ## Технологии
