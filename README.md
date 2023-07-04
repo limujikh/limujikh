@@ -1,9 +1,5 @@
 ### Hi, I’m Berry 💻
 
-I am full-stack developer, working on Computer Vision System. My current stack includes Python, React.js, Nest.js, PostgreSQL, TypeScript.
-
-#### Skills
-
 - **Front-End** is my strongest part. Currently working with [React](https://github.com/facebook/react/),  HTML, CSS, [Uikit](https://getuikit.com/docs/).
   
 - **Back-End** is what I’m learning. I have a good experience in [Django](https://github.com/django/).
