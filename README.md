@@ -10,4 +10,4 @@
 
 - **CI/CD** Github Actions, Gitlab CI, Travis, CircleCI, TeamCity.
 
-- **DevOps** Docker, Terraform, Ansible, Bash, Unix, Debian/Ubuntu, Nginx, Cron.
+- **DevOps** Docker, Terraform, Ansible, Bash, Unix, Debian/Ubuntu, Nginx, Cron, Jenkins.
