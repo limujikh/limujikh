@@ -1,9 +1,12 @@
-- **Front-End** is my strongest part. Currently working with [React](https://github.com/facebook/react/),  HTML, CSS, [Uikit](https://getuikit.com/docs/).
+- **Ask me anything about aws.👏**
+- **Skill-set** AWS: Cloud Solution Architects, Currently learning: Cloud machine learning
 
-- **Back-End** is what I’m learning. I have a good experience in [Django](https://github.com/django/).
+- **Front-End**  [React](https://github.com/facebook/react/) HTML, CSS, [Uikit](https://getuikit.com/docs/) and Javascript
 
-- **Databases** is what I respect. [PostgreSQL](https://www.postgresql.org), [MongoDB](https://ww w.mongodb.com).
+- **Back-End** Python and [Django](https://github.com/django/).
 
-- **CI/CD** is my passion. Github Actions, Gitlab CI, Travis, CircleCI, TeamCity.
+- **Databases** [PostgreSQL](https://www.postgresql.org), [MongoDB](https://ww w.mongodb.com).
 
-- **DevOps** is what I think we all should do. Docker, Terraform, Ansible, Bash, Unix, Debian/Ubuntu, Nginx, Cron.
+- **CI/CD** Github Actions, Gitlab CI, Travis, CircleCI, TeamCity.
+
+- **DevOps** Docker, Terraform, Ansible, Bash, Unix, Debian/Ubuntu, Nginx, Cron.
