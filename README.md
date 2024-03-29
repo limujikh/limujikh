@@ -1,6 +1,6 @@
 - **Ask me anything about AWS.👏**
 
-- **Skill-Set**  [AWS](https://aws.amazon.com/): Cloud Solution Architects, **Currently learning**: Cloud Machine Learning
+- **Skill-Set**  [AWS](https://aws.amazon.com/): Cloud Solution Architects, **Currently learning**: [Cloud Machine Learning](https://aws.amazon.com/machine-learning/?nc2=h_ql_prod_ml_lear)
 
 - **Front-End**  [React](https://github.com/facebook/react/) HTML, CSS, [Uikit](https://getuikit.com/docs/) and Javascript
 
