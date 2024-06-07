@@ -11,5 +11,3 @@
 - **CI/CD** Github Actions, Gitlab CI, Travis, CircleCI, TeamCity.
 
 - **DevOps** Docker, Terraform, Ansible, Bash, Unix, Debian/Ubuntu, Nginx, Cron, Jenkins.
-
-- **Currently active** At [Strerium](https://github.com/strerium/).
