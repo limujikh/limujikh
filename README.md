@@ -1,4 +1,4 @@
-**Limu here!👏**
+- **👏 Limu here!**
 
 - **Skill-Set**  [AWS](https://aws.amazon.com/): Cloud Solution Architects, **Currently learning**:  Cloud Machine Learning
 
