@@ -1,4 +1,4 @@
-- **Ask me anything about AWS.👏**
+- **Limu here!.👏**
 
 - **Skill-Set**  [AWS](https://aws.amazon.com/): Cloud Solution Architects, **Currently learning**:  Cloud Machine Learning
 
