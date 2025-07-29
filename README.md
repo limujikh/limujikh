@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6AB83D,100:337D35&height=200&section=header&text=Limu here! 👏&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:007f00&height=200&section=header&text=Limu%20here%20!%20👏&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 - **Skill-Set**  [AWS](https://aws.amazon.com/): Cloud Solution Architects, **Currently learning**:  Cloud Machine Learning
 
 - **Front-End**  [React](https://github.com/facebook/react/) HTML, CSS, [Uikit](https://getuikit.com/docs/) and Javascript
