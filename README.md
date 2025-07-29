@@ -1,7 +1,6 @@
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aef22,100:0aef22&height=270&section=header&text=Limu%20here%20!%20👏&fontSize=40&fontColor=eae6e8&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C483B9,100:C483B9&height=270&section=header&text=Limu%20here%20!%20👏&fontSize=40&fontColor=eae6e8&animation=fadeIn" />
 </p>
-
 
 
 - **Skill-Set**  [AWS](https://aws.amazon.com/): Cloud Solution Architects, **Currently learning**:  Cloud Machine Learning
