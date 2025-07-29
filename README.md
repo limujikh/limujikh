@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1593,100:1b1593&height=270&section=header&text=Limu%20here%20!%20👏&fontSize=40&fontColor=05fd71&animation=fadeIn" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414141,100:414141&height=270&section=header&text=Limu%20here%20!%20👏&fontSize=40&fontColor=e0ffe8&animation=fadeIn" />
 </p>
 
 
