@@ -9,7 +9,7 @@
 : Typescript, ReactJS + NextJS Framework
 
 - **DevOps**
-: GCP, Kubernetes, ArgoCD, GitLab,aws
+: GCP, Kubernetes, ArgoCD, GitLab and aws
 
 - **DBs**
 : Postgres, ClickHouse, Redis
